@@ -307,11 +307,18 @@ def run_logit_lens(
     piece_to_ids = build_piece_to_token_ids(tokenizer, max_vocab_size=lm_head_vocab_size)
     id_to_piece = {tid: piece for piece, tids in piece_to_ids.items() for tid in tids}
 
-    # Precompute L2-normalized unembedding weights once for cosine lens control.
-    w_float = lm_head.weight.detach().float()
-    row_norms = w_float.norm(p=2, dim=-1)
-    w_cos = F.normalize(w_float, p=2, dim=-1)
-    del w_float
+    # Precompute lm_head row L2 norms in chunks for memory-efficient cosine lens control.
+    w_weight = lm_head.weight.detach()
+    raw_bias = getattr(lm_head, "bias", None)
+    lm_head_bias = raw_bias.detach().float() if raw_bias is not None else None
+    row_norm_chunks = []
+    chunk_rows = 32768
+    for r0 in range(0, w_weight.shape[0], chunk_rows):
+        w_chunk = w_weight[r0 : r0 + chunk_rows].float()
+        row_norm_chunks.append(w_chunk.norm(p=2, dim=-1))
+        del w_chunk
+    row_norms = torch.cat(row_norm_chunks, dim=0).clamp(min=1e-12)
+    del row_norm_chunks
 
     n_words = len(df)
     num_layers = int(model.config.num_hidden_layers)
@@ -374,7 +381,10 @@ def run_logit_lens(
         normed_stack = torch.stack(normed_layers, dim=0)  # (L, d)
 
         logits_std = lm_head(normed_stack).float()  # (L, V)
-        logits_cos = torch.matmul(normed_stack.float(), w_cos.T)  # (L, V)
+        if lm_head_bias is not None:
+            logits_cos = (logits_std - lm_head_bias) / row_norms
+        else:
+            logits_cos = logits_std / row_norms  # (L, V)
 
         p_std = torch.softmax(logits_std, dim=-1)
         p_cos = torch.softmax(logits_cos, dim=-1)
@@ -421,7 +431,7 @@ def run_logit_lens(
         del inputs, outputs, layer_states, normed_layers, normed_stack
         del logits_std, logits_cos, p_std, p_cos
 
-    del w_cos, row_norms
+    del row_norms, lm_head_bias
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
 
