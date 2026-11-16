@@ -1,0 +1,145 @@
+model,direction,lens,word_es,word_target,word_en,layer,top1_token,top1_prob,top2_token,top2_prob,top3_token,top3_prob,top4_token,top4_prob,top5_token,top5_prob
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,1,'вере',0.0078,'laga',0.0076,'aguai',0.0073,'rezzo',0.0065,'owie',0.0048
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,2,'ereen',0.014,'ork',0.0068,'iera',0.0066,'adeva',0.0063,'iau',0.0059
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,3,'lag',0.1452,' lag',0.025,'alla',0.0196,' mangan',0.018,'qa',0.0054
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,4,'lag',0.0173,' lag',0.0146,'ometry',0.0078,'istiskt',0.007,' mangan',0.0068
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,5,'reik',0.0917,' begrip',0.0163,'iau',0.0119,' lag',0.0101,'istiskt',0.0095
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,6,' camelto',0.014,'ereen',0.0085,'ulla',0.006,'reik',0.0056,' weboldalt',0.0054
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,7,'yvai',0.0146,'ereen',0.0078,' modifică',0.0076,'OSTA',0.0075,'VO',0.0068
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,8,'ogađ',0.0061,'esom',0.0061,'olés',0.006,' Colombier',0.0047,'ituri',0.0047
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,9,'moscow',0.0286,'OSTA',0.0179,'UDEN',0.0177,' Colombier',0.0162,'varu',0.0153
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,10,'espo',0.0175,'varu',0.0124,'mari',0.0109,' potenc',0.0046,' robota',0.0043
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,11,'espo',0.013,' potenc',0.0104,' optimalizálás',0.0076,' PropTypes',0.0067,'inara',0.0058
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,12,'iseta',0.0424,' potenc',0.0259,' senat',0.0192,'reik',0.0133,' raí',0.011
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,13,' Senja',0.0626,' kvi',0.0118,'vâr',0.0111,' Feliç',0.0087,' juss',0.0071
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,14,'общо',0.0106,'tum',0.0083,' Senja',0.0068,' Gercse',0.0061,'тум',0.0043
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,15,' campionato',0.0132,' încredin',0.0039,' treffer',0.0036,'erdő',0.003,' Aldeanueva',0.0028
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,16,'�',0.0071,'adina',0.0053,'tru',0.004,' langrenn',0.003,'wh',0.0029
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,17,' campionato',0.0099,'wh',0.0085,'ge',0.0069,' aard',0.0056,'ard',0.0054
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,18,'yen',0.0141,'wh',0.0115,'im',0.0083,' pen',0.0063,'tru',0.0059
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,19,' dogs',0.487,' dog',0.1061,' Dogs',0.0559,'dog',0.0361,'Dog',0.0241
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,20,' dogs',0.5331,' beag',0.0508,' Dogs',0.0301,' Chihuahua',0.0161,'rü',0.0108
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,21,' beag',0.1167,' dogs',0.1167,'rü',0.079,' apeli',0.0221,'émet',0.0135
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,22,' beag',0.1009,'gos',0.0488,' pit',0.032,'tif',0.0289,'id',0.0152
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,23,'gos',0.1657,'id',0.0509,'et',0.0391,'any',0.0334,'gat',0.0262
+BSC-LT/salamandra-2b,es-ca,logit_lens,perro,gos,dog,24,'gos',0.9286,'g',0.0441,'per',0.0119,' gos',0.0024,'ra',0.0008
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,1,' Stad',0.0103,' other',0.0073,' конкурен',0.0065,'rezzo',0.0064,' Wo',0.006
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,2,' represión',0.022,' Chair',0.0151,' szü',0.0128,' repress',0.0112,"""-'""",0.0085
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,3,'lag',0.1092,' lag',0.1029,' offered',0.0519,'alla',0.0168,'La',0.0131
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,4,'La',0.1741,' lag',0.0402,' offered',0.0359,' Christmas',0.0232,' hadde',0.0209
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,5,' begrip',0.0359,' lag',0.0356,' chim',0.021,' impli',0.0196,' предложения',0.0167
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,6,' awarded',0.0281,' Assassin',0.0185,' Petite',0.0179,' granted',0.0172,' thro',0.0137
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,7,'intera',0.0173,' παρέχουν',0.0144,'VO',0.0137,' accomplish',0.0082,' comerciantes',0.0081
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,8,' Pages',0.0093,' fabricant',0.0087,' igénybe',0.0069,' Trade',0.0059,' awarded',0.0056
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,9,' Members',0.0111,' repres',0.0108,' Strav',0.0093,'λάβει',0.0077,' мебели',0.0077
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,10,' tarif',0.0333,' Tolkien',0.0162,' Siemens',0.0134,' imported',0.0119,' Members',0.0119
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,11,' Strav',0.0245,' påbör',0.0132,' Σύν',0.0128,' svoji',0.01,' Над',0.0059
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,12,' reprezent',0.0258,'клика',0.0082,' potenc',0.0069,' διαθέτει',0.0057,' aspi',0.0055
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,13,' Senja',0.0095,' omgang',0.005,' precisar',0.0036,' planurile',0.0036,' Vortrag',0.0033
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,14,'tum',0.0093,' Jonas',0.0088,' campionato',0.0087,' imported',0.0049,' Place',0.0042
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,15,' campionato',0.3373,' Spanish',0.0087,' champions',0.0055,' estreia',0.0046,' reprezent',0.0045
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,16,' Spanish',0.0132,' campionato',0.011,' Germany',0.0088,' įvairia',0.0068,' Звичайно',0.0064
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,17,' campionato',0.1249,' Spanish',0.033,' Germany',0.021,' champion',0.0181,' forest',0.0129
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,18,' Spanish',0.0685,' campionato',0.0307,'wh',0.02,'yen',0.0151,' pen',0.0134
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,19,' dogs',0.9833,' dog',0.0081,' Dogs',0.0045,' perros',0.0008,' Dog',0.0006
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,20,' dogs',0.9955,' Dogs',0.0014,' Chihuahua',0.0009,' animals',0.0006,' dog',0.0002
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,21,' dogs',0.9601,' perro',0.0067,' собака',0.0063,' собаки',0.0054,' animals',0.0025
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,22,' poden',0.2432,' экспер',0.1078,' Chihuahua',0.1063,' beag',0.0741,' pit',0.0374
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,23,'gos',0.1458,'any',0.1246,' pastor',0.0989,'id',0.0505,' Schä',0.03
+BSC-LT/salamandra-2b,es-ca,cosine_lens,perro,gos,dog,24,'gos',0.9037,'per',0.047,'g',0.024,'Per',0.0082,'G',0.0061
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,1,'вере',0.0081,'laga',0.0079,'aguai',0.0078,'rezzo',0.0065,'icet',0.0048
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,2,'ereen',0.0127,'ork',0.0077,'iera',0.0073,'iau',0.0069,'őny',0.0059
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,3,'lag',0.1569,' lag',0.0271,' mangan',0.0199,'alla',0.0182,'qa',0.0058
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,4,'lag',0.0197,' lag',0.0143,' mangan',0.0087,'ometry',0.0073,'ytu',0.0064
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,5,'reik',0.0795,' begrip',0.0184,'iau',0.0132,'istiskt',0.0101,' lag',0.0098
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,6,' camelto',0.012,'ulla',0.0119,'reik',0.0107,' osteg',0.0077,'ereen',0.0075
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,7,'yvai',0.0108,'OSTA',0.0106,'ereen',0.0084,'VO',0.0076,' modifică',0.0054
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,8,'olés',0.0071,'ogađ',0.0052,'esom',0.0048,'geir',0.0041,'espo',0.0039
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,9,'OSTA',0.032,'UDEN',0.0167,'moscow',0.0141,' Colombier',0.0096,'ogađ',0.0076
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,10,'varu',0.0125,'espo',0.0095,' potenc',0.009,' PRIMARY',0.0067,' trade',0.0066
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,11,' optimalizálás',0.0101,'мум',0.0079,' potenc',0.0076,' rø',0.0061,'ROV',0.0057
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,12,' PropTypes',0.0282,' chro',0.0185,' Mártonhegy',0.0136,'Koht',0.0119,' senat',0.0102
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,13,' Senja',0.0281,' cégeket',0.0062,' juss',0.0056,' treffer',0.0054,' nomenkl',0.0052
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,14,' treffer',0.0088,'tum',0.0071,' excess',0.0039,'atvé',0.0034,'ICS',0.0026
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,15,' campionato',0.0121,' treffer',0.0086,'goeding',0.0071,' omon',0.0056,'rici',0.0052
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,16,' Palotanegyed',0.0212,'goeding',0.0057,'adina',0.0054,' Udover',0.0037,'wh',0.0033
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,17,' pav',0.0114,'eg',0.0103,'ge',0.0099,'ogenic',0.0068,' [',0.0066
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,18,'ogenic',0.0616,'rici',0.0271,'eg',0.0144,' pav',0.0086,'ass',0.0083
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,19,' cheese',0.8711,'qü',0.0036,' Brie',0.0024,' tru',0.0016,' Käs',0.0014
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,20,' cheese',0.1655,' Brie',0.0214,'sei',0.0176,'qü',0.008,'ogenic',0.0075
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,21,' cheese',0.0501,'tif',0.0244,'aves',0.021,' чек',0.0106,'kä',0.0094
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,22,' cheese',0.0375,' brie',0.0266,'og',0.0184,'tif',0.014,'qu',0.0139
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,23,' brie',0.0757,'og',0.0684,'s',0.0572,'mat',0.0399,'x',0.039
+BSC-LT/salamandra-2b,es-ca,logit_lens,queso,formatge,cheese,24,'ques',0.4518,'qu',0.054,'pa',0.0535,'llet',0.0454,'x',0.0362
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,1,' Stad',0.0101,' other',0.0078,'rezzo',0.0064,' конкурен',0.0062,' Gra',0.0057
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,2,' represión',0.0188,' Chair',0.0162,' szü',0.0132,' repress',0.0107,'iera',0.009
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,3,'lag',0.1203,' lag',0.1143,' offered',0.0297,'alla',0.0156,'La',0.0141
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,4,'La',0.2269,' lag',0.0368,' offered',0.0226,' Christmas',0.0183,' La',0.0181
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,5,' begrip',0.0413,' lag',0.0339,' chim',0.0242,' Bott',0.016,' предложения',0.0136
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,6,' awarded',0.0291,' Petite',0.0197,'ulla',0.0142,' granted',0.0129,' Assassin',0.0123
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,7,'intera',0.0211,'VO',0.0158,' παρέχουν',0.0152,' accomplish',0.0111,' competencias',0.0103
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,8,' awarded',0.0098,' Pages',0.0096,' Trade',0.0086,' fabricants',0.0065,' διαπραγματεύ',0.0062
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,9,' repres',0.0162,' Trade',0.0113,' мебели',0.0101,'OSTA',0.0085,' Pages',0.0083
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,10,' tarif',0.0463,' Tolkien',0.043,' trade',0.0356,' Trade',0.0351,' Members',0.0186
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,11,' Strav',0.0197,' Ensimmä',0.0089,' empleo',0.0084,' Aristot',0.0079,' aiuto',0.0076
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,12,' PropTypes',0.0135,' empleo',0.0096,' Pertsona',0.0059,' Нача',0.0053,' pav',0.0047
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,13,' Σύν',0.0065,' храна',0.0064,' treffer',0.0059,' reprezent',0.0055,' Pertsona',0.0055
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,14,' excess',0.0408,' treffer',0.0079,'tum',0.0072,' campionato',0.0068,' Cover',0.0058
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,15,' campionato',0.2927,'γεις',0.0065,' Spanish',0.0056,' Semester',0.0056,' treffer',0.0051
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,16,' Spanish',0.0344,' campionato',0.0136,' excess',0.0123,'wh',0.0061,' forest',0.006
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,17,' Spanish',0.0412,' pav',0.0373,' campionato',0.0285,' Oscar',0.0208,'ge',0.0107
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,18,'ogenic',0.0911,' Spanish',0.0415,' cheese',0.0406,' Greek',0.0383,' album',0.0282
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,19,' cheese',0.9996,' Oscar',0.0,' Caesar',0.0,' Czech',0.0,' album',0.0
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,20,' cheese',0.9631,' Oscar',0.0021,' Brie',0.0019,' seit',0.001,' Caesar',0.0008
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,21,' cheese',0.7708,' seit',0.0457,' feta',0.0065,' brie',0.0056,' Caesar',0.0044
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,22,' cheese',0.6541,' brie',0.0407,' anx',0.0232,' exquis',0.0095,' abs',0.0075
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,23,' brie',0.3295,' anx',0.0753,'x',0.0667,'og',0.034,'X',0.0311
+BSC-LT/salamandra-2b,es-ca,cosine_lens,queso,formatge,cheese,24,'ques',0.5494,'form',0.0665,'x',0.0658,'pa',0.0506,'ll',0.0413
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,1,'вере',0.0079,'laga',0.0079,'aguai',0.0071,'rezzo',0.0066,'icet',0.0048
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,2,'ereen',0.0121,'ork',0.0073,'έρα',0.0064,'iau',0.0061,'adeva',0.0061
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,3,'lag',0.1445,' lag',0.028,' mangan',0.0202,'alla',0.0148,'qa',0.0059
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,4,' lag',0.0127,'lag',0.0107,'istiskt',0.0088,'ytu',0.0075,' mangan',0.0072
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,5,'reik',0.112,' begrip',0.017,'iau',0.0123,'istiskt',0.0114,' lag',0.0078
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,6,' camelto',0.0129,'reik',0.0095,'ereen',0.0094,' thro',0.0069,' asas',0.0065
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,7,'yvai',0.0146,'OSTA',0.0095,' modifică',0.0072,'VO',0.007,'ereen',0.0061
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,8,'olés',0.0072,'ituri',0.0052,'esom',0.0052,'espo',0.0041,'żaw',0.0038
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,9,'OSTA',0.0279,'UDEN',0.0173,'moscow',0.0165,' Colombier',0.0103,'varu',0.0093
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,10,'espo',0.0369,'varu',0.0193,' primari',0.0112,' robota',0.0085,' кру',0.0049
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,11,'Koht',0.0163,' valda',0.0133,'сті',0.0088,'espo',0.0079,'kava',0.0066
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,12,'Koht',0.07,' chro',0.0262,' didd',0.0191,'Sest',0.0191,' senat',0.0161
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,13,'στήματα',0.0227,' juss',0.0131,' Senja',0.0105,' majora',0.0098,'Koht',0.0084
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,14,'tóż',0.0098,' treffer',0.0078,' obal',0.0062,' planurile',0.0037,'tum',0.0035
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,15,' obal',0.0135,' treffer',0.0107,' Ós',0.0043,' planurile',0.003,' facerse',0.0025
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,16,'�',0.008,'tru',0.0044,'olen',0.0042,'tóż',0.0035,'adina',0.0028
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,17,'wh',0.0103,' μο',0.0064,'ag',0.0063,'eg',0.0054,'ten',0.0053
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,18,' μο',0.0181,'ogenic',0.0164,' Ménil',0.0112,'rici',0.0064,' pav',0.006
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,19,' fruit',0.6107,'fruit',0.0235,'fru',0.0112,' Phys',0.0094,' fruits',0.0079
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,20,' fruit',0.2214,' Phys',0.0175,'ogenic',0.0112,' fruits',0.0098,' Beren',0.0091
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,21,' fruit',0.0694,'MAIN',0.0236,' fruits',0.0236,' banane',0.0199,'barra',0.0174
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,22,'berg',0.0614,'pom',0.0264,'sen',0.0211,'bis',0.0206,' nar',0.0201
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,23,'p',0.0506,' mandar',0.0298,'ag',0.0181,'hin',0.0179,'x',0.0172
+BSC-LT/salamandra-2b,es-ca,logit_lens,manzana,poma,apple,24,' poma',0.1411,'man',0.1143,'ma',0.0876,'mer',0.071,'p',0.0444
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,1,' Stad',0.0108,' other',0.0076,'rezzo',0.0065,' Wo',0.0064,' конкурен',0.0062
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,2,' represión',0.0188,' Chair',0.0135,' szü',0.0133,' repress',0.0088,"""-'""",0.0085
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,3,' lag',0.1129,'lag',0.1054,' offered',0.057,'La',0.0152,'alla',0.0119
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,4,'La',0.1517,' offered',0.0386,' lag',0.0351,' Christmas',0.0227,' hadde',0.0151
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,5,' begrip',0.0393,' lag',0.0267,' Bott',0.0226,' предложения',0.0182,' impli',0.0164
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,6,' awarded',0.0417,' granted',0.0254,' thro',0.0231,' Petite',0.0157,' große',0.0123
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,7,'intera',0.0176,'VO',0.0148,' παρέχουν',0.0114,' competencias',0.01,' accomplish',0.0084
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,8,' Pages',0.0073,' διαπραγματεύ',0.0073,' Trade',0.0071,' hadde',0.0057,' awarded',0.0048
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,9,' Members',0.0165,' grandi',0.0126,' repres',0.0118,' Strav',0.0091,'OSTA',0.0075
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,10,' Tolkien',0.0425,' Members',0.0231,' кру',0.0188,' tarif',0.0163,' empleo',0.0109
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,11,' Strav',0.0426,'сті',0.0184,' Vortrag',0.0121,' Halle',0.012,' svoji',0.0099
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,12,'States',0.0097,' Strav',0.0077,' reprezent',0.0063,' PropTypes',0.0057,'alnia',0.0043
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,13,' reprezent',0.0165,'στήματα',0.0155,' Strav',0.0066,' Pertsona',0.0051,' награда',0.004
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,14,' excess',0.0078,' treffer',0.0076,'ná',0.0068,' obal',0.0058,' Cover',0.0052
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,15,' campionato',0.0382,' obal',0.0114,' Translation',0.0105,' treffer',0.0091,' української',0.0069
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,16,' Spanish',0.019,'�',0.0062,' Translation',0.0057,'tru',0.0054,' Engelse',0.0042
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,17,'wh',0.0184,' campionato',0.0166,' μο',0.0159,' Spanish',0.0141,' Germany',0.0138
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,18,' μο',0.0587,' Greek',0.0238,'ogenic',0.0232,' pav',0.021,' Spanish',0.0134
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,19,' fruit',0.994,' fruits',0.0027,' Fruit',0.0006,' apple',0.0004,' Phys',0.0003
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,20,' fruit',0.9621,' fruits',0.0158,' Phys',0.003,' kernel',0.0018,' Fruit',0.0009
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,21,' fruit',0.6952,' fruits',0.2357,'berg',0.0027,' Fruit',0.0021,' cardinal',0.0021
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,22,'berg',0.1043,' nar',0.0393,' Phys',0.0375,' pom',0.0351,' mandar',0.0305
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,23,' mandar',0.1272,'p',0.052,'x',0.0374,' mel',0.0308,' mong',0.026
+BSC-LT/salamandra-2b,es-ca,cosine_lens,manzana,poma,apple,24,'man',0.3706,'ma',0.1514,'p',0.0359,'mer',0.0348,'m',0.0314

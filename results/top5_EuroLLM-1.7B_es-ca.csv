@@ -1,0 +1,145 @@
+model,direction,lens,word_es,word_target,word_en,layer,top1_token,top1_prob,top2_token,top2_prob,top3_token,top3_prob,top4_token,top4_prob,top5_token,top5_prob
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,1,'lu',0.1115,'рове',0.0698,'linger',0.0671,'rach',0.0621,'omia',0.0472
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,2,'lu',0.801,'under',0.0647,'stro',0.0193,'linger',0.0181,'anem',0.0051
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,3,'lu',0.8003,'under',0.0177,'ru',0.0126,'stro',0.0076,'stal',0.0062
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,4,'lu',0.5112,'under',0.0491,'ult',0.042,'stro',0.0353,'stal',0.0317
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,5,'lu',0.3854,' Editorial',0.0233,'under',0.0231,'hor',0.0162,'ult',0.0157
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,6,'lu',0.1922,'ger',0.037,'dags',0.0302,'under',0.0252,'tif',0.0221
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,7,'under',0.3418,'lu',0.119,'chern',0.0411,'俠',0.0095,'Introdu',0.0093
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,8,'lu',0.8351,'under',0.0126,'ston',0.0093,' prat',0.0034,'od',0.0034
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,9,'lu',0.4738,'oros',0.0688,'od',0.0646,'essen',0.0414,'ult',0.0163
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,10,'lu',0.4882,'od',0.1623,'liber',0.0726,'stro',0.0156,'user',0.0128
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,11,'lu',0.7401,'od',0.078,'गु',0.0187,'user',0.0134,'ph',0.007
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,12,'od',0.3732,'ph',0.3192,'lu',0.0788,'ins',0.0132,'gly',0.013
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,13,'ph',0.2865,'od',0.2302,'lu',0.1954,' cro',0.0196,'नि',0.0052
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,14,'lu',0.3408,'ph',0.0772,'od',0.0465,'ero',0.0146,'TE',0.0145
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,15,'o',0.1234,'jo',0.1039,'od',0.0946,'ic',0.0682,'im',0.0407
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,16,'od',0.1788,'o',0.0466,'s',0.0415,'eng',0.0355,'n',0.0274
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,17,'gu',0.0993,'od',0.0986,'grave',0.0377,'o',0.0291,' c',0.0267
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,18,'d',0.1144,'r',0.0891,'P',0.0642,'p',0.0377,' squ',0.0336
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,19,'犬',0.6946,' dogs',0.2053,' perros',0.0792,' animals',0.0107,' perro',0.0045
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,20,'犬',0.5796,' perros',0.2166,' perro',0.1106,' dogs',0.0548,' соба',0.0214
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,21,'犬',0.5687,' dog',0.1905,' perros',0.0872,' animal',0.0554,' perro',0.0364
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,22,' animal',0.6267,'animal',0.1141,' perros',0.0875,'g',0.0293,' perro',0.0289
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,23,'g',0.7644,'d',0.0381,'per',0.0375,'gu',0.0283,'c',0.018
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,perro,gos,dog,24,'g',0.7528,'per',0.0554,'ca',0.0399,'c',0.0352,'gu',0.0106
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,1,' इस',0.0245,'lu',0.019,' broader',0.0149,'nov',0.0101,'숙',0.0077
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,2,'lu',0.185,' इस',0.0684,'under',0.0292,' broader',0.0185,'स',0.0085
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,3,'lu',0.1613,' इस',0.0346,'R',0.0234,' Editorial',0.0132,' tinsab',0.0118
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,4,'lu',0.0693,' इस',0.0503,'R',0.026,'T',0.0142,'C',0.0128
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,5,'lu',0.0428,'R',0.0176,' Editorial',0.0147,'T',0.0113,'C',0.0107
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,6,'lu',0.0227,'R',0.0131,' इस',0.0125,'A',0.0119,'C',0.0089
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,7,'under',0.034,'R',0.0237,'lu',0.0184,'Introdu',0.0132,' स्ट',0.0078
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,8,'lu',0.1502,'H',0.0164,'under',0.0076,'ड',0.0075,' मै',0.0049
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,9,'lu',0.0632,'od',0.0194,' words',0.0173,' augu',0.0094,' pievien',0.008
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,10,'lu',0.0724,'od',0.0415,'liber',0.0214,'H',0.0186,'C',0.0141
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,11,'lu',0.1398,'od',0.0363,'user',0.0087,' स्ट',0.0083,'गु',0.0078
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,12,'od',0.0897,'ph',0.0445,' स्ट',0.0298,'lu',0.0249,' म',0.0184
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,13,'od',0.0527,'lu',0.0389,'ph',0.0354,'The',0.0166,'H',0.0115
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,14,'lu',0.0449,'The',0.0308,'od',0.0135,'ph',0.0118,'TE',0.0071
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,15,'od',0.0248,'jo',0.0218,'ic',0.0214,'un',0.0185,'o',0.0156
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,16,'od',0.029,' ज',0.0102,' म',0.0099,'n',0.0095,' alt',0.008
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,17,'od',0.0207,' c',0.0152,'un',0.011,'gu',0.0108,'d',0.0081
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,18,'P',0.2435,' प',0.0538,'d',0.026,' perro',0.0241,' perros',0.0224
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,19,' dogs',0.4163,' perros',0.3095,'犬',0.2021,' соба',0.0306,' animals',0.023
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,20,' соба',0.4603,' perros',0.3418,' perro',0.073,'犬',0.0624,' dogs',0.0585
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,21,' perros',0.3401,'犬',0.2402,' соба',0.1882,' perro',0.0795,' dog',0.0526
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,22,' perros',0.3949,' animal',0.3215,' perro',0.079,' соба',0.0473,'animal',0.029
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,23,'g',0.405,'d',0.0518,' can',0.0492,'B',0.0445,'c',0.0339
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,perro,gos,dog,24,'g',0.4296,'c',0.0628,'per',0.04,'C',0.0294,'ca',0.0238
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,1,'lu',0.0908,'rach',0.0712,'omia',0.0701,'linger',0.0685,'рове',0.06
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,2,'lu',0.6972,'under',0.1212,'linger',0.0292,'stro',0.0258,'anem',0.0047
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,3,'lu',0.6732,'under',0.0227,'šiem',0.0143,'ru',0.0125,'gl',0.0111
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,4,'lu',0.4673,'under',0.0438,'ult',0.0358,'stal',0.0266,'stro',0.025
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,5,'lu',0.3405,' Editorial',0.0291,'under',0.02,'ult',0.0118,'hor',0.0117
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,6,'lu',0.1577,'dags',0.0331,'ths',0.027,'under',0.0268,'ger',0.0246
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,7,'under',0.3338,'lu',0.1145,'chern',0.0441,'Introdu',0.0102,'szy',0.0099
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,8,'lu',0.7776,'under',0.0195,'ston',0.0108,'od',0.0095,'linger',0.0077
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,9,'lu',0.4171,'oros',0.1186,'od',0.103,'essen',0.0351,'reb',0.0192
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,10,'lu',0.4308,'od',0.1768,'liber',0.0924,'hor',0.0122,'user',0.0098
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,11,'lu',0.7062,'od',0.0662,'गु',0.0232,'ôm',0.0121,'ph',0.0093
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,12,'od',0.6708,'ph',0.152,'lu',0.0149,'人工',0.0065,'地上',0.0058
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,13,'ph',0.3054,'lu',0.2532,'od',0.1867,' cro',0.0068,'hor',0.0043
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,14,'lu',0.2883,'od',0.0879,'ph',0.0542,'ero',0.0478,'reb',0.0202
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,15,'jo',0.33,'ic',0.0991,'od',0.0834,'n',0.0578,'m',0.0385
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,16,'od',0.3279,'ic',0.1537,'jo',0.0791,'de',0.0255,'s',0.0203
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,17,'od',0.1006,'un',0.0394,'o',0.0379,'ic',0.0267,'car',0.0237
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,18,' cheese',0.9235,'o',0.0122,' sauce',0.0107,' c',0.0036,'s',0.0033
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,19,' cheese',0.7586,'qu',0.0684,' qu',0.019,' cro',0.0124,'qü',0.0083
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,20,' cheese',0.9999,'乳',0.0,' leche',0.0,' meat',0.0,'牛',0.0
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,21,' cheese',0.6246,'ques',0.319,'乳',0.0088,'ac',0.0079,'uns',0.0051
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,22,'ques',0.4624,'uns',0.0616,' ric',0.0535,'qu',0.048,'cre',0.0368
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,23,'ques',0.9199,'que',0.038,'ll',0.0138,'c',0.0039,'m',0.0031
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,queso,formatge,cheese,24,'ques',0.9427,'que',0.0289,'cas',0.0049,'c',0.0035,'ca',0.002
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,1,' इस',0.0248,'lu',0.0165,' broader',0.0145,'nov',0.0104,'숙',0.0077
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,2,'lu',0.1488,' इस',0.0592,'under',0.0397,' broader',0.0182,'स',0.008
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,3,'lu',0.1031,' इस',0.0454,'R',0.0215,'šiem',0.0137,' Editorial',0.0119
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,4,'lu',0.0582,' इस',0.056,'R',0.0248,'T',0.0127,' Editorial',0.0112
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,5,'lu',0.0369,'R',0.0163,' Editorial',0.0161,' इस',0.0094,'T',0.0093
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,6,'lu',0.0194,'A',0.0117,'R',0.0114,' इस',0.0112,' Editorial',0.0093
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,7,'under',0.0333,'R',0.0193,'lu',0.0178,'Introdu',0.0141,'A',0.0084
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,8,'lu',0.1227,'H',0.0113,'under',0.0088,'ड',0.0085,' मै',0.0071
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,9,'lu',0.0605,'od',0.0282,' words',0.0149,'coala',0.0117,'oros',0.0107
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,10,'lu',0.0632,'od',0.0419,'liber',0.0241,'H',0.0158,' pievien',0.0113
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,11,'lu',0.1167,'od',0.0278,' हम',0.0136,' दी',0.0104,' इस',0.0079
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,12,'od',0.1631,'ph',0.0325,' augu',0.0111,'人工',0.011,'un',0.0101
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,13,'lu',0.0466,'od',0.0456,'ph',0.0371,'The',0.0266,'H',0.0072
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,14,'The',0.0614,'lu',0.039,'od',0.0205,'ph',0.0091,'ero',0.0063
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,15,'jo',0.0619,'ic',0.0359,'un',0.0356,'od',0.0292,'n',0.0282
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,16,'od',0.0649,'ic',0.0416,'jo',0.0199,'de',0.0131,' प',0.0105
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,17,'un',0.0324,'od',0.0214,' ल',0.0161,'car',0.0092,'ic',0.0091
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,18,' cheese',0.937,' sauce',0.0052,' coffee',0.0036,' chocolate',0.0028,' food',0.0024
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,19,' cheese',0.8541,' sucre',0.0108,' què',0.0087,'qu',0.0062,' qu',0.0053
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,20,' cheese',0.9998,' meat',0.0,' leche',0.0,'乳',0.0,' milk',0.0
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,21,' cheese',0.946,'ques',0.0114,'乳',0.0038,' que',0.0031,' quark',0.0018
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,22,' que',0.0845,'ques',0.0714,' cheese',0.0518,' aquest',0.0343,'m',0.0277
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,23,'ques',0.4232,'ll',0.0914,'que',0.0732,' que',0.0434,'c',0.0314
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,queso,formatge,cheese,24,'ques',0.4236,'que',0.0632,'1',0.0342,'c',0.0335,'C',0.0307
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,1,'lu',0.091,'рове',0.0875,'linger',0.0682,'rach',0.0655,'omia',0.0569
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,2,'lu',0.7345,'under',0.0799,'linger',0.0308,'stro',0.0234,'anem',0.0057
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,3,'lu',0.7765,'under',0.0178,'ru',0.0164,'stro',0.0082,'gl',0.0052
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,4,'lu',0.555,'ult',0.0466,'under',0.0463,'stro',0.0341,'stal',0.0248
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,5,'lu',0.4717,'under',0.0242,' Editorial',0.0167,'ult',0.0137,'stal',0.0117
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,6,'lu',0.3034,'ger',0.0333,'tif',0.0276,'under',0.0234,'dags',0.0206
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,7,'under',0.2653,'lu',0.2099,'chern',0.0241,'俠',0.013,'Introdu',0.0103
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,8,'lu',0.8396,'under',0.0127,'od',0.009,'ston',0.0062,' prat',0.0062
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,9,'lu',0.3888,'od',0.1583,'oros',0.1014,'essen',0.0436,'reb',0.0147
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,10,'lu',0.4053,'od',0.187,'liber',0.0699,'stro',0.0263,'hor',0.0137
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,11,'lu',0.6746,'od',0.1328,'गु',0.0129,'ôm',0.0088,'user',0.0086
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,12,'od',0.7802,'ph',0.1274,'lu',0.0097,'�',0.0049,' cro',0.0028
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,13,'ph',0.4489,'lu',0.266,'od',0.1256,' cro',0.0133,'our',0.0071
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,14,'lu',0.2671,'ph',0.1195,'od',0.0526,'re',0.0248,'reb',0.0206
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,15,'m',0.173,'jo',0.169,'n',0.0756,'od',0.0744,' cro',0.0549
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,16,'od',0.4661,'s',0.0671,'jo',0.0414,'n',0.0374,'ic',0.0315
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,17,'od',0.4793,'o',0.037,'un',0.0326,'gu',0.0275,'d',0.0165
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,18,' banana',0.6682,' c',0.0274,' fruta',0.0236,' cup',0.0227,'s',0.0171
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,19,'fruit',0.8884,' fruit',0.0908,' banana',0.0051,' fruta',0.0049,' apple',0.0035
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,20,'fruit',0.3876,' fruit',0.2622,' apple',0.2074,' fruta',0.1182,' Apple',0.0068
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,21,' maç',0.499,' Apple',0.0881,'ban',0.084,' banana',0.0654,'mand',0.0436
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,22,'m',0.9314,' maç',0.0193,'mac',0.0053,' pom',0.0042,'ap',0.0036
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,23,'m',0.7047,'mac',0.0778,'man',0.0687,'ma',0.0437,'ca',0.031
+utter-project/EuroLLM-1.7B,es-ca,logit_lens,manzana,poma,apple,24,'man',0.7154,'m',0.0578,'mans',0.0552,'pl',0.0245,'p',0.0213
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,1,' इस',0.0266,'lu',0.0163,' broader',0.0137,'nov',0.0089,'숙',0.0074
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,2,'lu',0.1517,' इस',0.06,'under',0.0294,' broader',0.0183,'स',0.0098
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,3,'lu',0.1479,' इस',0.0282,'R',0.0231,' tinsab',0.0137,' Editorial',0.0105
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,4,'lu',0.0783,' इस',0.0396,'R',0.0283,'C',0.0156,'T',0.0137
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,5,'lu',0.0541,'R',0.0187,' Editorial',0.0126,'C',0.0113,'T',0.0098
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,6,'lu',0.0336,'R',0.0146,'A',0.012,' इस',0.0101,'C',0.0091
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,7,'R',0.0288,'under',0.0282,'lu',0.0267,'Introdu',0.014,' स्ट',0.0099
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,8,'lu',0.1547,'H',0.0094,'od',0.0082,'under',0.0079,' prat',0.0074
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,9,'lu',0.0583,'od',0.0385,' words',0.0206,'oros',0.0098,'coala',0.0093
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,10,'lu',0.0559,'od',0.0401,'C',0.0206,'H',0.0187,'liber',0.0183
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,11,'lu',0.116,'od',0.0466,' हम',0.0203,' दी',0.0087,' जु',0.0087
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,12,'od',0.2559,'ph',0.0399,'H',0.0108,'lu',0.01,'�',0.0088
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,13,'lu',0.0632,'ph',0.062,'od',0.0456,'The',0.0183,' cro',0.0101
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,14,'lu',0.0362,'The',0.0188,'ph',0.015,'od',0.014,'re',0.0126
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,15,'m',0.0577,'un',0.0492,'jo',0.0358,'n',0.0313,'od',0.0247
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,16,'od',0.0896,' c',0.0208,'n',0.0189,'ic',0.0147,'jo',0.0137
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,17,'od',0.0895,'un',0.0422,' l',0.0174,' la',0.0153,' c',0.0147
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,18,' banana',0.4303,' fruta',0.0801,'M',0.0503,' corn',0.0233,' apple',0.0193
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,19,' fruit',0.4454,'fruit',0.2729,' fruta',0.0862,' apple',0.0364,' banana',0.0281
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,20,' fruta',0.379,' apple',0.2479,' fruit',0.2282,' frutas',0.0848,'fruit',0.0171
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,21,' maç',0.2473,' Apple',0.2356,' fruta',0.1279,' banana',0.0956,' apple',0.0783
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,22,'m',0.5792,' maç',0.0772,'M',0.0564,' fruta',0.0201,' pom',0.0137
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,23,'m',0.3618,'M',0.2324,'man',0.0616,'ma',0.0283,'p',0.0224
+utter-project/EuroLLM-1.7B,es-ca,cosine_lens,manzana,poma,apple,24,'man',0.3624,'1',0.1026,'m',0.068,'P',0.0399,'p',0.0392

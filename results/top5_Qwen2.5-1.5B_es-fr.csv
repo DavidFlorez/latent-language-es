@@ -1,0 +1,169 @@
+model,direction,lens,word_es,word_target,word_en,layer,top1_token,top1_prob,top2_token,top2_prob,top3_token,top3_prob,top4_token,top4_prob,top5_token,top5_prob
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,1,'s',0.5206,'at',0.018,"'."")\n'",0.0178,"'%""'",0.013,"'."")\n\n'",0.0129
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,2,'s',0.9558,'Jump',0.0033,'sl',0.0018,'Mont',0.0011,'at',0.001
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,3,'s',0.975,'r',0.0019,' Mont',0.0009,'O',0.0008,'Mont',0.0006
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,4,'s',0.9573,'the',0.0021,' vice',0.0012,'nal',0.0011,'pre',0.0007
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,5,'s',0.9102,'¦',0.0045,' ours',0.0034,'//--------------------------------------------------------------\n',0.0025,'Keep',0.002
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,6,'s',0.8588,'r',0.0045,'//----------------------------------------------------------------------------\n',0.0025,"'"",\r\n'",0.0023,'//--------------------------------------------------------------\n',0.002
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,7,'s',0.9684,'r',0.0069,'----------\n',0.0014,'l',0.0007,' O',0.0007
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,8,'s',0.8644,"'""><?=$'",0.0061,'r',0.0045,'==========\n',0.0035,' &',0.0025
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,9,'s',0.9076,'r',0.0079,"'""><?=$'",0.0038,' Pack',0.0014,'//----------------------------------------------------------------------------\n',0.0012
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,10,'s',0.2061,'//----------------------------------------------------------------------------\n',0.0497,"'""/>.\n'",0.0207,'tar',0.0181,'|--------------------------------------------------------------------------\n',0.0163
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,11,'s',0.0387,'拉丁',0.0309,'tar',0.0237,'Stock',0.0206,'translations',0.0148
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,12,'拉丁',0.1294,'翻译',0.0469,'\r\n\n',0.0365,'|--------------------------------------------------------------------------\n',0.0143,'とう',0.0131
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,13,'拉丁',0.1047,'\r\n\n',0.0519,'//----------------------------------------------------------------------------\n',0.0298,'...\n',0.0175,"'""/>.\n'",0.0167
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,14,'//----------------------------------------------------------------------------\n',0.0487,'s',0.0221,'拉丁',0.0164,'r',0.0154,'.Companion',0.0128
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,15,'//----------------------------------------------------------------------------\n',0.0439,'\r\n\n',0.0387,'<|endoftext|>',0.0146,'.Companion',0.013,'BitConverter',0.012
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,16,'BitConverter',0.0741,'//----------------------------------------------------------------------------\n',0.0649,'拉丁',0.0204,'翻译',0.0113,""" ');""",0.0108
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,17,'拉丁',0.0424,'BitConverter',0.0276,'---------------\n',0.0242,'//----------------------------------------------------------------------------\n',0.0185,'plural',0.015
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,18,'BitConverter',0.0849,'//----------------------------------------------------------------------------\n',0.0458,"'""/>.\n'",0.0215,'s',0.0188,'Bar',0.0187
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,19,'s',0.1569,'BitConverter',0.0254,"""').'""",0.0165,'[:]\n',0.0154,'//----------------------------------------------------------------------------\n',0.0127
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,20,"""').'""",0.0545,"'*)""'",0.0466,"'""""\n'",0.0408,"'"").\n'",0.0349,'[:]\n',0.0323
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,21,"'"".\n\n\n\n'",0.0628,"'""/>.\n'",0.059,"""').'""",0.0336,"'*)""'",0.0323,'.”\n\n\n\n',0.0323
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,22,'animal',0.2157,'狗',0.1382,' animal',0.0648,'动物',0.0585,'小狗',0.0452
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,23,'狗',0.4887,' dog',0.1884,' dogs',0.1108,'犬',0.0977,'小狗',0.0255
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,24,'狗',0.7296,' dog',0.1248,' dogs',0.059,'犬',0.0287,' canine',0.0227
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,25,'狗',0.7391,' dog',0.1649,'犬',0.0588,'dog',0.0238,' canine',0.0058
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,26,'狗',0.3411,'犬',0.1422,' dog',0.1235,'dog',0.1197,' canine',0.109
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,27,'ch',0.9587,'chat',0.0155,'chi',0.0079,' ch',0.0023,'che',0.0014
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,perro,chien,dog,28,'ch',0.9403,'chi',0.0506,'chat',0.0056,'p',0.0008,'che',0.0003
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,1,'the',0.0695,"'."")\n'",0.0386,"'.""\n'",0.0358,'Two',0.0305,"'.""\n\n'",0.0233
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,2,'s',0.2073,'Jump',0.0636,' Prom',0.0173,'Mont',0.0165,'sl',0.0138
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,3,'s',0.2376,'the',0.1269,'--------',0.0283,' Mont',0.0261,' �',0.0232
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,4,'the',0.4831,'s',0.1204,' vice',0.0099,'=========',0.0058,' �',0.0053
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,5,'the',0.2935,'s',0.0858,'Keep',0.0366,'¦',0.0274,'to',0.0135
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,6,'s',0.0958,' �',0.0334,'the',0.0332,' B',0.0156,' The',0.0155
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,7,'s',0.2732,'r',0.0531,' O',0.0337,'the',0.023,' &',0.0221
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,8,'s',0.1001,' &',0.0268,' O',0.0214,'ありません',0.0204,'==========\n',0.0177
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,9,'s',0.1368,'r',0.0281,' �',0.0265,'the',0.0254,'Do',0.0208
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,10,"'""/>.\n'",0.0402,'//----------------------------------------------------------------------------\n',0.0306,'´',0.0248,'Col',0.0178,'the',0.0156
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,11,'Stock',0.0262,"'""/>.\n'",0.0233,'拉丁',0.0121,'亦',0.0103,'tar',0.0086
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,12,'拉丁',0.0434,'亦',0.0379,'翻译',0.0356,'请输入',0.0154,'とう',0.0141
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,13,'拉丁',0.0389,"'""/>.\n'",0.0274,'//----------------------------------------------------------------------------\n',0.0183,'亦',0.0092,"'...""'",0.0091
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,14,'//----------------------------------------------------------------------------\n',0.0252,'亦',0.0175,'????',0.0137,'???',0.0132,'r',0.0076
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,15,'//----------------------------------------------------------------------------\n',0.0236,'???',0.0148,'こんにちは',0.0143,'.\r\n',0.0086,'????',0.0086
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,16,'//----------------------------------------------------------------------------\n',0.0343,'BitConverter',0.022,'________________',0.0216,'????',0.0175,'???',0.0141
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,17,'????',0.0327,'________________',0.0314,'---------------\n',0.0184,'???',0.0178,'拉丁',0.0151
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,18,"'""/>.\n'",0.0345,'//----------------------------------------------------------------------------\n',0.0255,'BitConverter',0.0243,'Bar',0.023,'¯¯',0.0098
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,19,'Ã',0.066,"'""/>.\n'",0.0186,'Bar',0.0151,'ï',0.0132,' Tro',0.0122
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,20,'Ã',0.0287,"'""/>.\n'",0.0247,"'"").\n'",0.0242,"""').'""",0.0214,"'"".\n'",0.018
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,21,"'""/>.\n'",0.1034,"'"".\n'",0.0294,'Ã',0.0146,' terrestrial',0.014,"""').'""",0.0128
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,22,' animal',0.1459,'animal',0.1425,'狗',0.0894,'动物',0.0693,' dogs',0.0672
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,23,' dog',0.3794,'狗',0.2598,' dogs',0.2038,' собак',0.0479,'犬',0.0321
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,24,' dog',0.3831,'狗',0.3064,' dogs',0.1584,' canine',0.1265,'犬',0.0062
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,25,' dog',0.6902,'狗',0.2333,' canine',0.0505,' dogs',0.0141,'犬',0.007
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,26,' canine',0.433,' dog',0.2736,'狗',0.1383,' dogs',0.047,'犬',0.0287
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,27,'ch',0.8848,'chat',0.0227,'chi',0.0106,' ch',0.0103,'Ch',0.0094
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,perro,chien,dog,28,'ch',0.9186,'chi',0.0611,'chat',0.0098,'Ch',0.0038,'can',0.0015
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,1,'s',0.4783,"'."")\n'",0.019,'at',0.0183,"'%""'",0.0159,"'."")\n\n'",0.013
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,2,'s',0.9593,'Jump',0.0027,'Mont',0.0014,'sl',0.0011,'Py',0.001
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,3,'s',0.9751,' Mont',0.0015,'r',0.0015,'O',0.0009,'Mont',0.0008
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,4,'s',0.9448,' vice',0.0023,'the',0.0021,'nal',0.0014,'nom',0.0011
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,5,'s',0.8068,'¦',0.0106,' ours',0.0093,"'"",\r\n'",0.0069,'Keep',0.0051
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,6,'s',0.8173,"'"",\r\n'",0.0072,'//----------------------------------------------------------------------------\n',0.0026,'Shortcut',0.0026,'r',0.0024
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,7,'s',0.9416,'r',0.0094,'----------\n',0.0042,' O',0.001,'==========\n',0.001
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,8,'s',0.8506,"'""><?=$'",0.0104,'==========\n',0.0035,'r',0.0033,'但不限于',0.0022
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,9,'s',0.8189,'r',0.0111,"'""><?=$'",0.0092,'sub',0.0056,' Pack',0.0036
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,10,'s',0.1327,'//----------------------------------------------------------------------------\n',0.0276,' @}',0.0257,"'""><?=$'",0.0257,'tar',0.0232
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,11,'translations',0.054,'拉丁',0.052,'translate',0.0247,'tar',0.0215,'翻译',0.0187
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,12,'拉丁',0.141,'翻译',0.0503,'translations',0.0315,'\r\n\n',0.0202,'plural',0.0145
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,13,'拉丁',0.1524,'\r\n\n',0.0548,'r',0.0129,'//----------------------------------------------------------------------------\n',0.0124,"'""/>.\n'",0.0118
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,14,'拉丁',0.0227,'//----------------------------------------------------------------------------\n',0.0215,'.Companion',0.0213,'s',0.018,'r',0.018
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,15,'\r\n\n',0.0645,'<|endoftext|>',0.0605,'r',0.0277,'拉丁',0.0226,'plural',0.0201
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,16,'BitConverter',0.1413,'拉丁',0.0272,'\xa0\n',0.0212,'\r\n\n',0.019,' Dom',0.0153
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,17,'拉丁',0.133,'BitConverter',0.0366,'plural',0.0246,'Bar',0.0235,'bar',0.0233
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,18,'BitConverter',0.0371,"'""/>.\n'",0.0346,'拉丁',0.0299,'거든',0.0171,'s',0.016
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,19,'[:]\n',0.0674,'s',0.0501,"'""/>.\n'",0.0258,'\xa0\n',0.0231,'BitConverter',0.0117
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,20,'[:]\n',0.1551,'\xa0\n',0.0524,"""').'""",0.0274,'@\n\n',0.0247,'*)\n',0.0238
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,21,"'..."")\n'",0.0539,"'""/>.\n'",0.0519,"""''\n""",0.0423,"'"").\n'",0.0401,"""').'""",0.0227
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,22,"'""/>.\n'",0.0471,' cheese',0.0331,' bisc',0.0258,'乳',0.0176,"""''\n""",0.0161
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,23,' cheese',0.0865,' bisc',0.0581,"'..."");\n'",0.047,"'..."");\r\n'",0.0347,' cereal',0.0326
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,24,' cheese',0.7022,' milk',0.275,'乳',0.0074,' Cheese',0.0043,' cheeses',0.0037
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,25,' cheese',0.5443,' milk',0.3982,'奶',0.0251,' cheeses',0.0136,'乳',0.0106
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,26,' cheese',0.8312,'奶',0.0761,' milk',0.0389,'乳',0.013,' dairy',0.0115
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,27,'from',0.4642,'che',0.0996,' from',0.0712,'qu',0.0685,' cheese',0.0358
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,queso,fromage,cheese,28,'from',0.5171,'b',0.0733,'che',0.038,'m',0.0341,'cur',0.0278
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,1,'the',0.0638,"'.""\n'",0.0409,"'."")\n'",0.0383,'Two',0.027,"'.""\n\n'",0.0251
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,2,'s',0.2164,'Jump',0.0567,'Mont',0.0219,' Prom',0.0163,"'."",'",0.0156
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,3,'s',0.2321,'the',0.1285,' Mont',0.0419,' �',0.0304,'--------',0.0301
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,4,'the',0.4148,'s',0.1123,' vice',0.0169,"' "",'",0.0087,'=========',0.0063
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,5,'the',0.1542,'Keep',0.0564,'s',0.0554,'¦',0.039,"' "",'",0.0291
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,6,'s',0.0812,'the',0.0229,"' "",'",0.0185,' �',0.0167,"'"",\r\n'",0.0165
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,7,'s',0.1901,'r',0.045,'----------\n',0.0364,'.\n',0.031,' O',0.0296
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,8,'s',0.0981,"'""><?=$'",0.0222,' &',0.0212,'==========\n',0.0174,'ありません',0.0156
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,9,'s',0.0825,' �',0.0249,'r',0.0228,'sub',0.0226,'the',0.0196
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,10,"'""/>.\n'",0.0365,'the',0.0267,'sub',0.0184,'//----------------------------------------------------------------------------\n',0.0172,'Col',0.0164
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,11,'拉丁',0.0191,'translations',0.0191,'translate',0.0162,'Stock',0.0158,'翻译',0.0148
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,12,'拉丁',0.0467,'翻译',0.0376,'the',0.0196,'亦',0.0173,'Acc',0.0169
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,13,'拉丁',0.0517,'the',0.0192,'亦',0.0187,"'""/>.\n'",0.0174,'Acc',0.0102
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,14,'亦',0.0159,'//----------------------------------------------------------------------------\n',0.0121,'????',0.011,'.Companion',0.0096,'拉丁',0.0092
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,15,'<|endoftext|>',0.0222,'こんにちは',0.0208,'.\n\n\n',0.0145,'r',0.0141,'拉丁',0.01
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,16,'BitConverter',0.0427,"'""/>.\n'",0.0142,' Dom',0.013,'???',0.0127,'拉丁',0.0124
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,17,'拉丁',0.0465,'Bar',0.0274,'???',0.0145,'BitConverter',0.0125,'????',0.0116
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,18,"'""/>.\n'",0.0507,'Bar',0.012,'拉丁',0.0116,'BitConverter',0.0115,' .\n',0.0113
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,19,"'""/>.\n'",0.0393,'[:]\n',0.0227,"'."")\n'",0.0097,'\u200e',0.0087,'듦',0.0079
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,20,'[:]\n',0.0565,"'""/>.\n'",0.0291,'*)\n',0.0186,'*\n',0.0186,'\xa0\n',0.0178
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,21,"'""/>.\n'",0.0878,'Ã',0.0269,"'"").\n'",0.0251,"'..."")\n'",0.0224,"'."")\n'",0.0119
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,22,' cheese',0.1338,"'""/>.\n'",0.0601,' bisc',0.0263,' dairy',0.0255,' pastry',0.0234
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,23,' cheese',0.3439,' cereal',0.0466,' bisc',0.0461,' milk',0.0289,' pastry',0.0199
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,24,' cheese',0.9507,' milk',0.0477,' dairy',0.0006,' Cheese',0.0004,'牛奶',0.0001
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,25,' cheese',0.8889,' milk',0.1069,'奶',0.0014,' cheeses',0.0009,' dairy',0.0007
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,26,' cheese',0.973,' dairy',0.01,' milk',0.0088,'奶',0.0052,' cheeses',0.0009
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,27,'from',0.6657,' from',0.1306,'From',0.104,' cheese',0.0328,'从',0.0183
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,queso,fromage,cheese,28,'from',0.9607,'From',0.0159,' from',0.0036,'b',0.0035,'m',0.0011
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,1,'s',0.5622,'at',0.0166,"'."")\n'",0.0156,"'."")\n\n'",0.0117,"'%""'",0.0103
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,2,'s',0.9723,'Jump',0.002,'sl',0.0009,'Mont',0.0008,'Py',0.0006
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,3,'s',0.9886,'r',0.001,' Mont',0.0005,'<<<<<<<',0.0004,'O',0.0003
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,4,'s',0.9789,' vice',0.0008,'the',0.0007,'nal',0.0003,' Mont',0.0002
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,5,'s',0.9581,'//--------------------------------------------------------------\n',0.0012,"'"",\r\n'",0.0012,'Keep',0.0011,'¦',0.001
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,6,'s',0.9434,'r',0.0014,"'"",\r\n'",0.0011,'Shortcut',0.001,'@\n\n',0.0009
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,7,'s',0.9751,'r',0.004,'----------\n',0.0014,'l',0.0006,' &',0.0005
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,8,'s',0.8759,"'""><?=$'",0.0061,'r',0.0029,'==========\n',0.0023,' &',0.0019
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,9,'s',0.8846,'r',0.0117,' Pack',0.0029,"'""><?=$'",0.0021,'sub',0.0018
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,10,'s',0.3058,"'""/>.\n'",0.0253,'tar',0.0185,"'""><?=$'",0.0133,'sub',0.0126
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,11,'translations',0.0358,'拉丁',0.0339,'s',0.0331,'Stock',0.0236,'tar',0.0219
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,12,'拉丁',0.0781,'\r\n\n',0.0576,'翻译',0.0344,'s',0.021,'translations',0.0193
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,13,'拉丁',0.1418,'\r\n\n',0.0952,'<|endoftext|>',0.0273,'...\n',0.0192,"'""/>.\n'",0.0183
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,14,'s',0.0523,'r',0.0269,'<|endoftext|>',0.0265,'拉丁',0.023,'\r\n\n',0.0181
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,15,'\r\n\n',0.0719,'<|endoftext|>',0.0708,'r',0.044,'拉丁',0.0249,'s',0.0154
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,16,'<|endoftext|>',0.0419,'BitConverter',0.0314,'\r\n\n',0.0211,'拉丁',0.0175,"'""/>.\n'",0.016
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,17,'拉丁',0.077,'Bar',0.0279,'BitConverter',0.0237,'plural',0.0113,'bar',0.0111
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,18,"'""/>.\n'",0.0374,'s',0.0291,'BitConverter',0.0259,'Bar',0.023,' ?\n',0.0149
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,19,'[:]\n',0.0561,'s',0.0539,"'..."")\n'",0.0227,'h',0.0206,"'""/>.\n'",0.0194
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,20,'\xa0\n',0.0659,'[:]\n',0.0525,"'..."")\n'",0.0442,"'"").\n'",0.0286,"""').'""",0.0254
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,21,"'..."")\n'",0.0644,"'""/>.\n'",0.0482,'...\n',0.0266,"'...""\n'",0.0264,'...\\',0.0169
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,22,' fruit',0.5464,'水果',0.0485,'果',0.0323,"'""/>.\n'",0.0113,'葡萄',0.0108
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,23,' fruit',0.2489,' apple',0.0649,'苹果',0.0543,' banana',0.0361,'葡萄',0.0337
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,24,'苹果',0.5259,' apple',0.3504,' apples',0.0546,'apple',0.0467,' banana',0.0079
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,25,'苹果',0.6634,' apple',0.268,'apple',0.0368,' apples',0.0234,'/apple',0.0031
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,26,'苹果',0.8239,'apple',0.0954,' apple',0.057,' apples',0.0086,'.apple',0.0046
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,27,'mand',0.2943,'ban',0.1961,'apple',0.0536,'po',0.0524,'苹果',0.0444
+Qwen/Qwen2.5-1.5B,es-fr,logit_lens,manzana,pomme,apple,28,'p',0.3345,'po',0.2093,'ban',0.0859,'mand',0.069,'orange',0.0412
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,1,'the',0.0675,"'.""\n'",0.0401,"'."")\n'",0.0364,'Two',0.0351,"'.""\n\n'",0.0262
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,2,'s',0.2662,'Jump',0.0548,'Mont',0.0165,"'"".'",0.0146,' Prom',0.0137
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,3,'s',0.3688,'the',0.0802,' �',0.0273,' Mont',0.025,'New',0.0213
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,4,'the',0.3234,'s',0.2246,' vice',0.0147,' �',0.0071,' Mont',0.0067
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,5,'the',0.2469,'s',0.1479,'Keep',0.0412,'¦',0.0132,"'"",\n'",0.0123
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,6,'s',0.1829,' �',0.0358,'the',0.0333,"' "",'",0.0166,' O',0.0131
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,7,'s',0.3106,'r',0.0384,'----------\n',0.0245,'.\n',0.0226,' &',0.0211
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,8,'s',0.1107,'ありません',0.0241,' &',0.0224,' �',0.018,' S',0.0155
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,9,'s',0.1128,'the',0.0459,' �',0.0385,'r',0.032,'Do',0.0238
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,10,'the',0.0766,"'""/>.\n'",0.0503,'Col',0.0166,'´',0.0148,'sub',0.0142
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,11,'Stock',0.0298,'translations',0.0134,'拉丁',0.0132,'translate',0.013,'翻译',0.0124
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,12,'亦',0.0451,'拉丁',0.0271,'翻译',0.0253,'the',0.0244,'请输入',0.0123
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,13,'拉丁',0.0533,"'""/>.\n'",0.0308,"'`,'",0.0164,'the',0.0161,'亦',0.015
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,14,'亦',0.0188,'r',0.0136,"'""/>.\n'",0.0109,'<|endoftext|>',0.0107,'拉丁',0.01
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,15,'<|endoftext|>',0.0264,'r',0.0221,'拉丁',0.0113,'\r\n\n',0.0107,'こんにちは',0.0099
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,16,"'""/>.\n'",0.0222,'<|endoftext|>',0.0158,' �',0.0147,'???',0.0129,' Dom',0.012
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,17,'Bar',0.0296,'拉丁',0.0274,'???',0.0122,'????',0.0104,'BitConverter',0.0082
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,18,"'""/>.\n'",0.0508,'Bar',0.0244,' ?\n',0.017,' .\n',0.016,'Gal',0.0106
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,19,"'""/>.\n'",0.0289,'[:]\n',0.0196,' Bar',0.0165,'Bar',0.0157,'Ã',0.0146
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,20,"'..."")\n'",0.0216,'[:]\n',0.0214,'\xa0\n',0.0213,"'"").\n'",0.0209,"'""/>.\n'",0.0162
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,21,"'""/>.\n'",0.0746,"'..."")\n'",0.0262,'\ufeff',0.0198,'ないです',0.0141,'Ã',0.0115
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,22,' fruit',0.5832,'水果',0.0738,' banana',0.019,'葡萄',0.0138,"'""/>.\n'",0.0116
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,23,' fruit',0.2684,' banana',0.1111,' apple',0.0796,'苹果',0.064,'葡萄',0.0455
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,24,'苹果',0.523,' apple',0.3745,' banana',0.0459,' apples',0.037,' bananas',0.0062
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,25,'苹果',0.6808,' apple',0.2966,' apples',0.0157,'apple',0.003,'Apple',0.0009
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,26,'苹果',0.9114,' apple',0.0656,'apple',0.0115,' apples',0.0066,'Apple',0.0008
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,27,'orange',0.1826,'苹果',0.1187,' banana',0.0977,'ban',0.0816,'mand',0.0663
+Qwen/Qwen2.5-1.5B,es-fr,cosine_lens,manzana,pomme,apple,28,'orange',0.4017,'po',0.1359,'p',0.1339,'an',0.0454,'ban',0.0418
