@@ -13,6 +13,7 @@ Test whether small open-weight multilingual LLMs (`1B–2B` parameters) exhibit 
 
 ### 2026-11-16
 - **Milestone 1 (Data & Repo Init):** Created 150-noun dataset `data/words.csv`, `.gitignore`, `requirements.txt`, `README.md`, and `NOTES.md`. Verified all 150 rows have unique entries per language, zero `es==ca` or `es==fr` identity copies, and zero first-letter collisions between `en` and `es`/`ca`/`fr`.
+- **Milestone 2 (Core Pipeline):** Implemented `prompts.py`, `logit_lens.py`, `plotting.py`, and `run.py`. Built universal anchor-based vocab piece decoding (preserving leading spaces for both SentencePiece and byte-level BPE), `outputs.hidden_states[-1]` double-norm detection against `outputs.logits`, L2-normalized `lm_head` cosine-lens control, per-layer 95% t-interval CI plots, top-5 decoded tokens tables, and gated-model skip handling for `HF_TOKEN`.
 
 ## Key Results
 _Pending Colab GPU runs (`results/summary.csv`)._
